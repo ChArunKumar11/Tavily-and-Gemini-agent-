@@ -45,15 +45,9 @@ All outputs are beautifully formatted for easy reading.
 📋 How To Run
 Install the required libraries:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Set your environment variables in a .env file:
 
-ini
-Copy
-Edit
 GOOGLE_API_KEY=your_google_generative_ai_key
 TAVILY_API_KEY=your_tavily_key
 Run the script and interact with the AI assistant!
