@@ -1,0 +1,9 @@
+python-dotenv
+google-generativeai>=0.8.5
+langchain
+langchain-google-genai
+langchain-openai
+langchain-community
+langgraph
+langchain-google-vertexai
+pygraphviz
